@@ -2,6 +2,6 @@
 # without shortcut
 # without inbuilt function 
 
-s="ishan"
+s="vaideha"
 for i in range(s):
     print(s)
